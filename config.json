@@ -1,0 +1,12 @@
+{
+  "app": {
+    "name": "belajar-golang-viper",
+    "version": "1.0.0",
+    "author": "Eko Kurniawan Khannedy"
+  },
+  "database": {
+    "show_sql": true,
+    "host": "localhost",
+    "port": 3306
+  }
+}
